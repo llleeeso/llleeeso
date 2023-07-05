@@ -5,5 +5,3 @@
 
 - 🌱 I’m currently learning `Deep Learning`, `Artificial Intelligence`, 
 - 🥇 I majored in Convergence Software
-
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stawberry0">
