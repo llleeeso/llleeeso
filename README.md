@@ -3,5 +3,5 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning `Deep Learning`, `Artificial Intelligence`, and `Computer Security`.
+- 🌱 I’m currently learning `Deep Learning`, `Artificial Intelligence`, and `Computer Vision`.
 - 🥇 I majored in Convergence Software.
